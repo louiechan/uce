@@ -5,3 +5,6 @@
 pip install git+https://github.com/louiechan/uce.git
 
 ```
+#### 要求
+
+python3
